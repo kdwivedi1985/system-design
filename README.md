@@ -2,7 +2,7 @@
 
 ### Alongside foundational concepts and building blocks, we will solve real-world system design problems by assembling these components into practical architectures.
 
-# We will deep dive into different tools and selection strategies tailored to real-world use cases for core aspect like:
+### We will deep dive into different tools and selection strategies tailored to real-world use cases for core aspect like:
 - Database Strategy
 - Caching
 - Scaling
